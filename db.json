@@ -1,67 +1,79 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
-    },
-    {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
-    },
-    {
-      "id": 7,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "author": "Confucius"
-    },
-    {
-      "id": 8,
-      "quote": "Don't count the days, make the days count.",
-      "author": "Muhammad Ali"
-    },
-    {
-      "id": 9,
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
-    },
-    {
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
+      "author": "Sonia Sotomayor",
+      "likes": null
     },
     {
-      "id": 11,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
+      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world",
+      "author": "Hannah Gadsby",
+      "likes": null,
+      "id": 11
+    },
+    {
+      "quote": "We had better not enjoy the moment, but create the moment.",
+      "author": "Ai Weiwei",
+      "likes": null,
+      "id": 12
+    },
+    {
+      "quote": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "likes": null,
+      "id": 13
+    },
+    {
+      "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe",
+      "author": "Albert Einstein",
+      "likes": 1,
+      "id": 14
+    },
+    {
+      "quote": "Be the change that you wish to see in the world",
+      "author": "Mahatma Gandhi",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "quote": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "quote": "A room without books is like a body without a soul.",
+      "author": "Marcus Tullius Cicero",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "quote": "Don’t walk in front of me… I may not follow Don’t walk behind me… I may not lead Walk beside me… just be my friend",
+      "author": "Albert Camus",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "quote": "We accept the love we think we deserve.",
+      "author": "Stephen Chbosky, The Perks of Being a Wallflower",
+      "likes": 0,
+      "id": 21
     }
   ],
   "likes": [
-    {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
     {
       "quoteId": 10,
       "id": 2,
